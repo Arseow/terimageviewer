@@ -1,0 +1,1 @@
+This is a terminal image viewer. It uses a unicode character to view an image.
